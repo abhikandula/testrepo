@@ -6,5 +6,9 @@ Line 4 Commit -4 Master
 Line-6 Commit-6 master
 Line-7 commit-7 master
 Line8 commit 8 master
+<<<<<<< HEAD
 line-9 commit9 master
 
+=======
+commit9 line9 mater
+>>>>>>> d059d6b8cc0b61bf75047e4cb02c6e387efbf02c
