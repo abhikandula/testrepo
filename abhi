@@ -15,5 +15,13 @@ commit9 line9 mater
 Now start future branch
 
 Line 11 commit 12 future 
+<<<<<<< Updated upstream
 Line 14 commit 14 future
+<<<<<<< Updated upstream
+=======
+Line 13 commit 13 future
+>>>>>>> Stashed changes
+=======
+Line 15 commit 15 future
+>>>>>>> Stashed changes
 
