@@ -28,11 +28,8 @@ line 21 commit 21 fut2
 line 23 commit 23 master
 ine 22 commit 22 master
 
-<<<<<<< HEAD
 revrt c
 
 revrt D
 
 
-=======
->>>>>>> parent of 2721d9b... revrt c
